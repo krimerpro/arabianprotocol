@@ -22,7 +22,7 @@
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:green">We are here to guide you on your journey to buy and sell cryptocurrencies online less trading fee. With you, every step of the way!</h5>
                         <div class="mt-5 text-center">
                           <a href="https://linktr.ee/arabianprotocol" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">LINKTREE</a>
-                          <a href="https://poocoin.app/tokens/0x378327838388b2998E23900C29CBA182C3d371e0" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">CHART</a>
+                          <a href="https://poocoin.app/tokens/0x9C20Fdee0D9a8440B1e1A6e4eB256331aAbe5707" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">CHART</a>
                         </div>
                     </div>
                 </div>
