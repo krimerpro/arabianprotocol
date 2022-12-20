@@ -85,7 +85,7 @@
 
                 <div style="margin-bottom:15px;">
                     <h3 style="font-size:16px;background:#ACD1AF">Decimals</h3>
-                    <h4 style="font-size:24px;color:green">9</h4>
+                    <h4 style="font-size:24px;color:green">18</h4>
                 </div>
             </div>
 
