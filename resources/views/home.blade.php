@@ -22,7 +22,7 @@
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:green">We are here to guide you on your journey to buy and sell cryptocurrencies online less trading fee. With you, every step of the way!</h5>
                         <div class="mt-5 text-center">
                           <a href="https://linktr.ee/arabianprotocol" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">LINKTREE</a>
-                          <a href="https://poocoin.app/tokens/0x7560A0E86f746489Ea5D4A82D91Dc052C1ACD58D" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">CHART</a>
+                          <a href="https://www.dexview.com/eth/" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:green">CHART</a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
           <div class="col-md-12 col-lg-12 text-center">
             <div style="margin-bottom:15px;border-bottom-style: solid;">
                 <h3 style="font-size:16px;background:#ACD1AF">Initial LP</h3>
-                <h4 style="font-size:24px;color:green">2 BNB + 96% Total Supply Tokens</h4>
+                <h4 style="font-size:24px;color:green">0.9 ETH + 98% Total Supply Tokens</h4>
             </div>
           </div>
         </div>
@@ -97,12 +97,12 @@
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px;background:#ACD1AF">Max Wallet</h3>
-                    <h4 style="font-size:24px;color:green">4%</h4>
+                    <h4 style="font-size:24px;color:green">2%</h4>
                 </div>
 
                 <div style="margin-bottom:15px;">
                     <h3 style="font-size:16px;background:#ACD1AF">Max Tx</h3>
-                    <h4 style="font-size:24px;color:green">4%</h4>
+                    <h4 style="font-size:24px;color:green">2%</h4>
                 </div>
             </div>
         </div>
